@@ -49,8 +49,8 @@ I have been coding for 4 years. I started with the backend in 2018 using a Pytho
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" /></a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="Graphql" /></a> 
 <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="36" height="36" alt="Pug" /></a> 
-<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/a/31/apollo-graphql.svg" width="36" height="36" alt="Apollo" /></a> 
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" width="36" height="36" alt="Prisma" /></a> 
+<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo" /></a> 
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="36" height="36" alt="Prisma" /></a> 
 </p>
 
 
