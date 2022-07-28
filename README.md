@@ -51,6 +51,7 @@ I have been coding for 4 years. I started with the backend in 2018 using a Pytho
 <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="36" height="36" alt="Pug" /></a> 
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo" /></a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="36" height="36" alt="Prisma" /></a> 
+<a href="https://auth0.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" width="36" height="36" alt="Auth0" /></a> 
 </p>
 
 
