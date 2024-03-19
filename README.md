@@ -4,7 +4,7 @@ Hi 👋 My name is Jean Eric TUYISHIMIRE
 I am a Software Engineer
 ------------------------
 
-I have been coding for 4 years. I started with the backend in 2018 using a Python framework called Django and later on, in January 2022 I joined Andela Technical Leadership Program(ATLP) where I became a Full-stack developer using JavaScript skills.
+I have been coding for 4+ years. I started with the backend in 2018 using a Python framework called Django and later on, in January 2022 I joined Andela Technical Leadership Program(ATLP) where I became a Full-stack developer using JavaScript skills.
 
 * 🌍  I'm based in Kigali, Rwanda
 * ✉️  You can contact me at [ericjohn415@gmail.com](mailto:ericjohn415@gmail.com)
