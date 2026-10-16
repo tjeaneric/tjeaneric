@@ -1,13 +1,8 @@
-# Hello 👋
+# Hi, I'm Jean Eric 👋
 
-## A little bit about ME
+**Senior DevOps & Software Engineer** based in Kigali, Rwanda.
 
-I am an experienced Software Engineer specializing in DevOps, backend API development, and modern frontend frameworks.
-
-- 🌍  I'm based in Kigali, Rwanda.
-- ✉️  You can contact me at [ericjohn415@gmail.com](mailto:ericjohn415@gmail.com)
-- 🧠  I'm always learning.
-- 🤝  I'm open to collaborating on interesting projects.
+I build and run production systems end-to-end: I design the backend APIs, automate the infrastructure they run on, and make sure teams can see what's happening once they're live.
 
 ## Skills
 
